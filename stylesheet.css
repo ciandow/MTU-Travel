@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+	text-align: center;
+	border:dashed 5px #000000;
+	padding: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
