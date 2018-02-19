@@ -1,8 +1,10 @@
 body {
-    background-color: red;
+    background-color: green;
 	text-align: center;
 	border:dashed 5px #000000;
-	padding: 30px;
+	margin-left: 300px;
+	margin-right: 300px;
+
 }
 
 h1 {
